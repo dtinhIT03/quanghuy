@@ -200,9 +200,9 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Chúc mọi người một mùa giáng sinh an lành, vui vẻ và hạnh phúc!!!",
+                        "Mong ước lớn nhất trong Noel này của anh chính là chúng ta sẽ được ở bên nhau. Anh nhớ em nhiều lắm công chúa à! Nhờ ông già Noel gửi tình yêu từ trái tim anh đến trái tim em!",
                         ],
-                        typeSpeed: 40,
+                        typeSpeed: 30,
                         startDelay: 100,
                         
                         
@@ -212,7 +212,7 @@ $(document).ready(function() {
                     });
                     $(".message1").typed({
                         strings: [
-                        "from Dangtinh"
+                        "from Bạn nhỏ của em"
                         ],
                         typeSpeed: 20,
                         startDelay: 0,
