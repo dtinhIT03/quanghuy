@@ -200,9 +200,9 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Giáng sinh zui ze nha !!!",
+                        "Chúc mọi người một mùa giáng sinh an lành, vui vẻ và hạnh phúc!!!",
                         ],
-                        typeSpeed: 50,
+                        typeSpeed: 40,
                         startDelay: 100,
                         
                         
@@ -212,7 +212,7 @@ $(document).ready(function() {
                     });
                     $(".message1").typed({
                         strings: [
-                        "from DoanQuyWithLove"
+                        "from Dangtinh"
                         ],
                         typeSpeed: 20,
                         startDelay: 0,
