@@ -212,7 +212,7 @@ $(document).ready(function() {
                     });
                     $(".message1").typed({
                         strings: [
-                        "from DangTinh"
+                        "from DoanQuyWithLove"
                         ],
                         typeSpeed: 20,
                         startDelay: 0,
